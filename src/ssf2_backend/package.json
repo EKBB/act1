@@ -6,7 +6,8 @@
     "dependencies": {
         "azle": "^0.22.0",
         "cors": "^2.8.5",
-        "express": "^4.19.2"
+        "express": "^4.19.2",
+        "mongoose": "^8.5.1"
     },
     "devDependencies": {
         "@types/cors": "^2.8.17",
